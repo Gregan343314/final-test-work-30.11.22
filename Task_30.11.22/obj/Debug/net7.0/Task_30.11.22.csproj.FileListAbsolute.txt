@@ -1,0 +1,15 @@
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\bin\Debug\net7.0\Task_30.11.22.exe
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\bin\Debug\net7.0\Task_30.11.22.deps.json
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\bin\Debug\net7.0\Task_30.11.22.runtimeconfig.json
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\bin\Debug\net7.0\Task_30.11.22.dll
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\bin\Debug\net7.0\Task_30.11.22.pdb
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.csproj.AssemblyReference.cache
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.AssemblyInfoInputs.cache
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.AssemblyInfo.cs
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.csproj.CoreCompileInputs.cache
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.dll
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\refint\Task_30.11.22.dll
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.pdb
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\Task_30.11.22.genruntimeconfig.cache
+D:\YandexDisk\GeekBrains\Выбор специализации. IT-специалист\Итоговая проверочная работа\finaltest_30.11.22\Task\Task_30.11.22\obj\Debug\net7.0\ref\Task_30.11.22.dll
