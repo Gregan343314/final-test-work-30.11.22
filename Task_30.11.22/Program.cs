@@ -1,5 +1,6 @@
 ﻿// Задача
 
+Console.Clear();
 void methodArray (string [] array){
      string[] newarr = new string[array.Length];
      for (int i=0; i<array.Length; i++){      
